@@ -1,2 +1,3 @@
 # astrology-web
-An astrology websit made by rishabh and vineet
+An astrology website made by rishabh and vineet.
+
